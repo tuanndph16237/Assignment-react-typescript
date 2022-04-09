@@ -1,0 +1,32 @@
+{
+  "name": "assignment",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "antd": "^4.19.3",
+    "axios": "^0.26.1",
+    "bootstrap": "^5.1.3",
+    "hover-effect": "^1.1.0",
+    "postcss": "^8.4.12",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.2.2",
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^7.28.1",
+    "react-router-dom": "^6.2.2",
+    "react-scripts": "^5.0.0",
+    "swiper": "^8.0.7"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.33",
+    "@types/react-dom": "^17.0.10",
+    "@vitejs/plugin-react": "^1.0.7",
+    "tailwindcss": "^3.0.23",
+    "typescript": "^4.5.4",
+    "vite": "^2.8.0"
+  }
+}
